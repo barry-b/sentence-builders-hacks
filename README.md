@@ -3,6 +3,7 @@ hacks for sentence builders
 INSTRUCTIONS:
 
 paste the code in hacks.js into the console when in a sentencebuilders set
+
 set the speed using the menu that appears and press the green button
 
 controls:
